@@ -27,7 +27,7 @@ This project focuses on analyzing sales, profit, and customer behavior in a supe
 - Dataset Source: Super Shop Sales Dataset.
 
 ### Live Project:
-- View Dashboard: https://shorturl.at/7gmPQ
+View Dashboard: https://shorturl.at/7gmPQ
 
 ### Steps to Implement:
 1. Data Cleaning (Excel):
